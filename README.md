@@ -28,6 +28,7 @@ Windows 10/11
   Clone the repository:
 
   git clone https://github.com/YOURUSERNAME/LocalChatBot.git
+  
   cd LocalChatBot
 
   Configure the API endpoint in App.config or in code:
