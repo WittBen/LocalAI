@@ -58,9 +58,5 @@ LocalChatBot/
 │── LocalChatBot.csproj       # Project file
 │── MainWindow.xaml           # Chat UI (XAML)
 │── MainWindow.xaml.cs        # Code-behind
-│── Services/                 # API client + streaming
-│── Models/                   # Data models for chat
-│── ViewModels/               # MVVM logic
-│── docs/                     # Screenshots, documentation
 ```
 
