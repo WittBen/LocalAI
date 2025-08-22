@@ -42,16 +42,6 @@ It connects to a **Foundry-compatible LocalAI backend** (OpenAI API compatible) 
 <img width="778" height="540" alt="image" src="https://github.com/user-attachments/assets/c0689624-68fb-4c0b-8506-36b639e4b87d" />
 
 
-**Input →**  
-```
-Hi, can you briefly explain how RAG works?
-```  
-
-**Streaming Response →**  
-```
-RAG (Retrieval-Augmented Generation) combines ...
-```  
-
 ## 📂 Project Structure  
 ```
 LocalChatBot/
